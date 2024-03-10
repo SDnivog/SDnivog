@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdnivog" alt="sdnivog" /></a> </p>
 
-- 🔭 I’m currently working on [UPSC Hindi](https://play.google.com/store/apps/details?id=com.upschindionline)
+- 🔭 I’m currently working on [SD CAMPUS](https://www.sdcampus.com/)
 
 - 🌱 I’m currently learning **Java, SpringBoot**
 
-- 💬 Ask me about **Socftware Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **govind.s@trando.in**
 
