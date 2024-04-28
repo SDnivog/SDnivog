@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **govind.s@trando.in**
+- 📫 How to reach me **govind.s@sdempire.co.in**
 
 - ⚡ Fun fact **I think I am funny**
 
