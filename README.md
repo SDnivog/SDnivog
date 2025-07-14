@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Govind Suman</h1>
-<h4 align="center">As a self-motivated and hardworking software developer, I excel in designing, developing, testing, and maintaining software systems. I am proficient in various platforms, programming languages, and embedded systems, and I am capable of effectively managing myself during independent projects while also collaborating productively as part of a team.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdnivog&label=Profile%20views&color=0e75b6&style=flat" alt="sdnivog" /> </p>
 
