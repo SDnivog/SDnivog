@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdnivog" alt="sdnivog" /></a> </p>
 
-- 🔭 I’m currently working on [SD CAMPUS](https://www.sdcampus.com/)
+- 🔭 Building [Accruewise](https://accruewise.in/)
 
-- 🌱 I’m currently learning **Java, SpringBoot**
 
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **govind.s@sdempire.co.in**
+- 📫 How to reach me **govind.s@accruewise.in**
 
 - ⚡ Fun fact **I think I am funny**
 
